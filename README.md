@@ -37,7 +37,7 @@ A simple Python-based quiz application that allows users to register, log in, at
 2. Run the application:
 
     ```bash
-    python3 quiz_app.py
+    python3 quiz.py
     ```
 
 ### Usage
