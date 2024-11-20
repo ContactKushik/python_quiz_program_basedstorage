@@ -30,7 +30,7 @@ A simple Python-based quiz application that allows users to register, log in, at
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/ContactKushik/quiz-app.git
+    git clone https://github.com/ContactKushik/python_quiz_program_basedstorage.git
     cd quiz-app
     ```
 
